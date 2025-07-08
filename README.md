@@ -3,11 +3,11 @@ This directory contains the dynamic models developed and used to produce the res
 
 ## Dynamic Models
 
-The dynamic models are organised into two main packages: **Fluids** and **NewHTHP**.
+The dynamic models are organised into two main packages: `Fluids` and `NewHTHP`.
 
 ### Fluids Package
 
-The *Fluids* package contains some predefined fluid packages which allow evaluation of the fluid thermophysical properties as a function of the thermodynamic state. The following fluid packages are predefined:
+The `Fluids` package contains some predefined fluid packages which allow evaluation of the fluid thermophysical properties as a function of the thermodynamic state. The following fluid packages are predefined:
 
 - Water  
 - R1233zd(E)  
